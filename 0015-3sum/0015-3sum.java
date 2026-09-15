@@ -1,45 +1,43 @@
 class Solution {
 
-    public void twosum(ArrayList<List<Integer>> arr, int[] nums,
+    public void twosum(ArrayList<List<Integer>> ans, int[] nums,
                        int i, int j, int target) {
 
         while (i < j) {
 
             int sum = nums[i] + nums[j];
 
-            if (sum > target) {
-                j--;
-            }
-            else if (sum < target) {
+            if (sum < target) {
                 i++;
             }
+            else if (sum > target) {
+                j--;
+            }
             else {
+                ans.add(Arrays.asList(-target, nums[i], nums[j]));
 
-                arr.add(Arrays.asList(-target, nums[i], nums[j]));
+                i++;
+                j--;
 
-                while (i < j && nums[i] == nums[i + 1]) {
+                // skip duplicates
+                while (i < j && nums[i] == nums[i - 1]) {
                     i++;
                 }
 
-                while (i < j && nums[j] == nums[j - 1]) {
+                while (i < j && nums[j] == nums[j + 1]) {
                     j--;
                 }
-
-                i++;
-                j--;
             }
         }
     }
 
     public List<List<Integer>> threeSum(int[] nums) {
 
-        ArrayList<List<Integer>> arr = new ArrayList<>();
-
-        int n = nums.length;
+        ArrayList<List<Integer>> ans = new ArrayList<>();
 
         Arrays.sort(nums);
 
-        for (int i = 0; i < n - 2; i++) {
+        for (int i = 0; i < nums.length - 2; i++) {
 
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
@@ -47,9 +45,9 @@ class Solution {
 
             int target = -nums[i];
 
-            twosum(arr, nums, i + 1, n - 1, target);
+            twosum(ans, nums, i + 1, nums.length - 1, target);
         }
 
-        return arr;
+        return ans;
     }
 }
