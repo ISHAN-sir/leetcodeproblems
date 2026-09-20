@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0064-minimum-path-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0198-house-robber) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Stack
