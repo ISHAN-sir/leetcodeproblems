@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0322-coin-change) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0075-sort-colors) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
 |  |
 | ------- |
