@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0062-unique-paths) |
 ## Combinatorics
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Two Pointers
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 ## Breadth-First Search
 |  |
