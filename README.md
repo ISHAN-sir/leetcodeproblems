@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0498-diagonal-traverse) |
