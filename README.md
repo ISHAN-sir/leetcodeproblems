@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0498-diagonal-traverse) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
