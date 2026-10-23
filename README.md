@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
+| [1143-longest-common-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
