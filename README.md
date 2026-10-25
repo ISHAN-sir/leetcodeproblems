@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
