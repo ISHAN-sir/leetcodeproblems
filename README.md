@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0064-minimum-path-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
