@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0075-sort-colors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
