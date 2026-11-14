@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0498-diagonal-traverse) |
+| [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0075-sort-colors) |
+| [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Matrix
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0051-n-queens) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
