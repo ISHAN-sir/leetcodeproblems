@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0498-diagonal-traverse) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0075-sort-colors) |
+| [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Matrix
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
+| [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## String
 |  |
