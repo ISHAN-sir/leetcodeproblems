@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0498-diagonal-traverse) |
+| [0781-rabbits-in-forest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0062-unique-paths) |
+| [0781-rabbits-in-forest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0781-rabbits-in-forest) |
 ## Combinatorics
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0049-group-anagrams) |
+| [0781-rabbits-in-forest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0781-rabbits-in-forest) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
 ## Two Pointers
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0781-rabbits-in-forest](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ISHAN-sir/leetcodeproblems/tree/master/2007-find-original-array-from-doubled-array) |
