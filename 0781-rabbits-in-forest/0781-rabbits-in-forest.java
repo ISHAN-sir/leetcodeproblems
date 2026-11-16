@@ -15,9 +15,14 @@ class Solution {
             int count = map.get(key);
             int groupSize = key + 1;
 
-            int groups = (count + groupSize - 1) / groupSize;
+            int q = count / groupSize;
+            int r = count % groupSize;
 
-            sum += groups * groupSize;
+            sum += q * groupSize;
+
+            if (r > 0) {
+                sum += groupSize;
+            }
         }
 
         return sum;
